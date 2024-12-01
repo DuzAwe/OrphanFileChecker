@@ -14,6 +14,7 @@ chmod +x /usr/local/sbin/orphancheck.sh
 How It Works:
 
 List items: The script lists the contents of the directory, numbering each item.
+
         Options:
         Option 1: Allows the user to select an item by number to delete.
         Option 2: Deletes all items after confirmation.
