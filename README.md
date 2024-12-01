@@ -12,6 +12,10 @@ or save it to your /bin and use it as a global command.
 ```bash
 chmod +x /usr/local/sbin/orphancheck.sh
 ```
+or
+```bash
+chmod +x /usr/local/bin/orphancheck.sh
+```
 
 How It Works:
 
