@@ -1,6 +1,6 @@
 ## Instructions:
 
-Save the script as orphancheck.sh edit the script to check the directory you want. Its line 1 of the file. Then make it executable:
+Save the script as orphancheck.sh edit the script to check the directory you want. Its line 1 of the file (1. search_dir=/dir/*). Then make it executable:
 
 ```bash
 chmod +x orphancheck.sh
